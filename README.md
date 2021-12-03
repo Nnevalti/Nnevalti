@@ -20,4 +20,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnevalti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#| Piscine CPP Final Score: [![Nnevalti's Piscine CPP Score](https://badge42.herokuapp.com/api/project/vdescham/cpp)](https://github.com/Nnevalti/CPP)| <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/C%2B%2B_original.svg" width="30" height="30"> |
+<!-- | Piscine CPP Final Score: [![Nnevalti's Piscine CPP Score](https://badge42.herokuapp.com/api/project/vdescham/cpp)](https://github.com/Nnevalti/CPP)| <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/C%2B%2B_original.svg" width="30" height="30"> |
+ -->
