@@ -5,7 +5,6 @@
 | 42's Project | Tech used |
 | ------- | ------ |
 | Ft_containers Final Score: [![Nnevalti's Ft_containers Score](https://badge42.herokuapp.com/api/project/vdescham/ft_containers)](https://github.com/Nnevalti/ft_containers) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/C%2B%2B_original.svg" width="30" height="30"> |
-| Piscine CPP Final Score: [![Nnevalti's Piscine CPP Score](https://badge42.herokuapp.com/api/project/vdescham/cpp)](https://github.com/Nnevalti/CPP)| <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/C%2B%2B_original.svg" width="30" height="30"> |
 | MiniShell Final Score: [![Nnevalti's Minishell Score](https://badge42.herokuapp.com/api/project/vdescham/minishell)](https://github.com/Nnevalti/MiniShell_42) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/c-original.svg" width="30" height="30"> |
 | Cub3d Final Score: [![Nnevalti's Cub3d Score](https://badge42.herokuapp.com/api/project/vdescham/cub3d)](https://github.com/Nnevalti/Cub3D) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/c-original.svg" width="30" height="30"> |
 | Philosophers Final Score: [![Nnevalti's Philosophers Score](https://badge42.herokuapp.com/api/project/vdescham/Philosophers)](https://github.com/nnevalti/Philosophers)| <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/c-original.svg" width="30" height="30"> |
@@ -20,3 +19,5 @@
 | Libft Final Score: [![Nnevalti's libft Score](https://badge42.herokuapp.com/api/project/vdescham/Libft)](https://github.com/nnevalti/libft) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/c-original.svg" width="30" height="30"> |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnevalti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+#| Piscine CPP Final Score: [![Nnevalti's Piscine CPP Score](https://badge42.herokuapp.com/api/project/vdescham/cpp)](https://github.com/Nnevalti/CPP)| <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/C%2B%2B_original.svg" width="30" height="30"> |
