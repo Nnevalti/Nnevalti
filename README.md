@@ -4,6 +4,7 @@
 
 | 42's Project | Tech used |
 | ------- | ------ |
+| Webserv Final Score: [![Nnevalti's Webserv Score](https://badge42.herokuapp.com/api/project/vdescham/webserv)](https://github.com/Sherchryst/42-webserv) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/C%2B%2B_original.svg" width="30" height="30"> |
 | Ft_containers Final Score: [![Nnevalti's Ft_containers Score](https://badge42.herokuapp.com/api/project/vdescham/ft_containers)](https://github.com/Nnevalti/ft_containers) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/C%2B%2B_original.svg" width="30" height="30"> |
 | MiniShell Final Score: [![Nnevalti's Minishell Score](https://badge42.herokuapp.com/api/project/vdescham/minishell)](https://github.com/Nnevalti/MiniShell_42) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/c-original.svg" width="30" height="30"> |
 | Cub3d Final Score: [![Nnevalti's Cub3d Score](https://badge42.herokuapp.com/api/project/vdescham/cub3d)](https://github.com/Nnevalti/Cub3D) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/c-original.svg" width="30" height="30"> |
