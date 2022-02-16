@@ -1,6 +1,6 @@
 [![Nnevalti's 42 stats](https://badge42.herokuapp.com/api/stats/vdescham?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-🔭 Working on ft_transcendance (last projectb of the common-core) :D
+🔭 Working on ft_transcendance
 
 | 42's Project | Tech used |
 | ------- | ------ |
