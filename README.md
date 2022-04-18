@@ -1,4 +1,5 @@
-[![Nnevalti's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+[![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+
 🔭 Working on ft_transcendance
 
 | 42's Project | Tech used |
@@ -20,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnevalti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=9&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+[![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=9&coalitionId=12)](https://github.com/JaeSeoKim/badge42)
 
 <!-- | Piscine CPP Final Score: [![Nnevalti's Piscine CPP Score](https://badge42.herokuapp.com/api/project/vdescham/cpp)](https://github.com/Nnevalti/CPP)| <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/C%2B%2B_original.svg" width="30" height="30"> |
  -->
