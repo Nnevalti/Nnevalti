@@ -1,6 +1,6 @@
 [![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
-🔭 Working on malloc
+🔭 Working on malloc and inception of things
 
 | 42's Project | Tech used |
 | ------- | ------ |
