@@ -1,8 +1,14 @@
-[![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+<!-- [![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42) -->
 
-I'm actually doing an internship at SoundX as a Software Engineer
+<div align="center">
+ <h1>Hi !</h1>
+ <p>My name is Valentin Deschamps and I'm a student in computer sciences at 42 - Paris</p>
+</div>
 
-🔭 Working on malloc and IoT
+💼 Currently doing an internship at [SoundX](https://www.soundx.fr/) in R&D as a Software Engineer
+
+🛠 Working on malloc and IoT
+
 <!--
 | 42's Project | Tech used |
 | ------- | ------ |
@@ -22,9 +28,7 @@ I'm actually doing an internship at SoundX as a Software Engineer
 | Get_next_line Final Score: [![Nnevalti's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/project/1611297)](https://github.com/Nnevalti/get_next_line) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/c-original.svg" width="30" height="30"> |
 | Libft Final Score: [![Nnevalti's 42 Libft Score](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/project/1585048)](https://github.com/Nnevalti/libft) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/c-original.svg" width="30" height="30"> |
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnevalti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=9&coalitionId=12)](https://github.com/JaeSeoKim/badge42)
+[![Nnevalti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nnevalti&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- | Piscine CPP Final Score: [![Nnevalti's Piscine CPP Score](https://badge42.herokuapp.com/api/project/vdescham/cpp)](https://github.com/Nnevalti/CPP)| <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/C%2B%2B_original.svg" width="30" height="30"> |
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnevalti&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
