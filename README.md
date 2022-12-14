@@ -1,7 +1,9 @@
 [![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
-🔭 Working on malloc and internship as software engineer at SoundX
+I'm actually doing an internship at SoundX as a Software Engineer
 
+🔭 Working on malloc and IoT
+<!--
 | 42's Project | Tech used |
 | ------- | ------ |
 | Transcendance Final Score: [![vdescham's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/project/2465358)](https://github.com/aurelien-brabant/ft_transcendance) | <img src="https://github.com/nnevalti/nnevalti/blob/main/VisualStudioCode-logo.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/nginx_logo.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/kubernetes-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/docker-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/html-logo.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/CSS3_logo.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/js-logo.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/Typescript_logo.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/nextjs-logo.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/React-logo.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/nestjs-logo.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/Postgresql_logo.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/socketio_logo.svg" width="30" height="30"> |
@@ -19,7 +21,7 @@
 | Ft_printf Final Score: [![Nnevalti's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/project/1612070)](https://github.com/Nnevalti/ft_printf) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/c-original.svg" width="30" height="30"> |
 | Get_next_line Final Score: [![Nnevalti's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/project/1611297)](https://github.com/Nnevalti/get_next_line) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/c-original.svg" width="30" height="30"> |
 | Libft Final Score: [![Nnevalti's 42 Libft Score](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/project/1585048)](https://github.com/Nnevalti/libft) | <img src="https://github.com/nnevalti/nnevalti/blob/main/atom-original.svg" width="30" height="30"> <img src="https://github.com/nnevalti/nnevalti/blob/main/c-original.svg" width="30" height="30"> |
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnevalti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=9&coalitionId=12)](https://github.com/JaeSeoKim/badge42)
