@@ -1,13 +1,63 @@
 <!-- [![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42) -->
 
 <div align="center">
- <h1>Hi !</h1>
- <p>My name is Valentin Deschamps and I'm a student in computer sciences at 42 - Paris</p>
+ <h1>Hello, I'm Valentin Deschamps ! 👾</h1>
 </div>
+
+![42](https://badgen.net/badge/Born2Code/vdescham/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![Coffee](https://badgen.net/badge/icon/FueledByCoffee?icon=buymeacoffee&label)
 
 💼 Currently doing an internship at [SoundX](https://www.soundx.fr/) in R&D as a Software Engineer
 
 🛠 Working on malloc and IoT
+
+
+```cpp
+#include <iostream>
+#include <string>
+
+using namespace std; // I never use this usually but this is for aesthetic
+
+int main()
+{
+  string name = "Valentin Deschamps";
+  string title = "Software Developer";
+
+  cout << name << "\n";
+  cout << title << "\n\n";
+
+  cout << "Experienced software developer with a passion for creating elegant and
+   efficient solutions to complex problems. Skilled in C++ and Python, with a strong
+   background in data structures and algorithms.\n";
+
+  cout << "One trick I like to use when debugging is to print out the values of
+   variables at different points in my code. This helps me understand the flow
+   of my program and identify any issues.\n";
+
+  cout << "A little known fact about me is that I love working with legacy code.
+   There's just something about wading through thousands of lines of poorly documented,
+   spaghetti code that really gets me going.\n";
+ 
+  return 0;
+}
+
+```
+---
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
 
 <!--
 | 42's Project | Tech used |
