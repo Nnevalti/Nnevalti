@@ -7,7 +7,9 @@
 ![42](https://badgen.net/badge/Born2Code/vdescham/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![Coffee](https://badgen.net/badge/icon/FueledByCoffee?icon=buymeacoffee&label)
 
-💼 Currently doing an internship at [SoundX](https://www.soundx.fr/) in R&D as a Software Engineer
+📚 Studying at 42 Paris
+
+💼 Intern at [SoundX](https://www.soundx.fr/) in R&D as a Software Engineer
 
 🛠 Working on malloc and IoT
 
