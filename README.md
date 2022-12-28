@@ -7,11 +7,25 @@
 ![42](https://badgen.net/badge/Born2Code/vdescham/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 ![Coffee](https://badgen.net/badge/icon/FueledByCoffee?icon=buymeacoffee&label)
 
-📚 Studying at 42 Paris
+📚 Studying at 42 - Paris
 
 💼 Intern at [SoundX](https://www.soundx.fr/) in R&D as a Software Engineer
 
 🛠 Working on malloc and IoT
+
+
+## Languages
+| Language      | Proficiency     |
+| ------------- | --------------- |
+| 🇫🇷 French     | Native language |
+| 🇬🇧 English    | B2              |
+| 🇯🇵 Japanese   | Learning (N5) |
+<!--
+| 🇪🇸 Spanish    | Learning (fundammentals) |
+-->
+
+
+## About me
 
 ```cpp
 #include <iostream>
@@ -43,7 +57,10 @@ int main()
 }
 
 ```
+
 ---
+
+## Application development
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -53,14 +70,26 @@ int main()
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-*Currently learning:*
+## Learning
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
----
+## Can't work without
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+## I also know a bit about
+
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+## I'm interested in
+
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
