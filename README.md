@@ -4,8 +4,8 @@
  <h1>Hello, I'm Valentin Deschamps ! 👾</h1>
 </div>
 
-![42](https://badgen.net/badge/Born2Code/vdescham/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![Coffee](https://badgen.net/badge/icon/FueledByCoffee?icon=buymeacoffee&label)
+![42](https://badgen.net/badge/Born2Code/vdescham/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg&scale=1)
+![Coffee](https://badgen.net/badge/icon/FueledByCoffee?cache=86400&icon=buymeacoffee&label&scale=1)
 
 📚 Studying at 42 - Paris
 
