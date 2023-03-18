@@ -18,7 +18,7 @@
 | Language      | Proficiency     |
 | ------------- | --------------- |
 | 🇫🇷 French     | Native language |
-| 🇬🇧 English    | B2              |
+| 🇬🇧 English    | B2 (TOEIC)      |
 | 🇯🇵 Japanese   | Learning (N5) |
 <!--
 | 🇪🇸 Spanish    | Learning (fundammentals) |
