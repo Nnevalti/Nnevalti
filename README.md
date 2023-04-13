@@ -9,9 +9,9 @@
 
 📚 Studying at 42 - Paris
 
-💼 Intern at [SoundX](https://www.soundx.fr/) in R&D as a Software Engineer
+💼 In a Fixed-term contract at [SoundX](https://www.soundx.fr/) in R&D as a Software Engineer
 
-🛠 Working on malloc and IoT
+🛠 Working on ping and IoT
 
 
 ## Languages
