@@ -1,4 +1,4 @@
-<!-- [![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42) -->
+[![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
 <div align="center">
  <h1>Hello, I'm Valentin Deschamps ! 👾</h1>
