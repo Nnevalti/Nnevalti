@@ -5,7 +5,7 @@
 ![42](https://badgen.net/badge/Born2Code/vdescham/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg&scale=1)
 ![Coffee](https://badgen.net/badge/icon/FueledByCoffee?cache=86400&icon=buymeacoffee&label&scale=1)
 
-[![vdescham's 42 stats](https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48" alt="vdescham's 42 stats" /></a>
 
 📚 Studying at 42 - Paris
 
