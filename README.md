@@ -101,8 +101,6 @@ int main()
 
 ---
 
-![Snake animation](https://github.com/Nnevalti/Nnevalti/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 | 42's Project | Tech used |
 | ------- | ------ |
