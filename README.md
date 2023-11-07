@@ -13,7 +13,7 @@
 
 📚 Studying at 42 - Paris
 
-💼 In a Fixed-term contract at [SoundX](https://www.soundx.fr/) in R&D as a Software Engineer
+💼 Previously in a Fixed-term contract at [SoundX](https://www.soundx.fr/) in R&D as a Software Engineer
 
 🛠 Working on ping and IoT
 
