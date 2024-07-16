@@ -13,9 +13,9 @@
 
 📚 Studying at 42 - Paris
 
-💼 Previously in a Fixed-term contract at [SoundX](https://www.soundx.fr/) in R&D as a Software Engineer
+💼 Working as a freelance since Noember 2023
 
-🛠 Working on ping and IoT
+🛠 Working on Nmap
 
 
 ## Languages
@@ -95,7 +95,6 @@ int main()
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ## I'm interested in :
 
