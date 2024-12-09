@@ -15,8 +15,6 @@
 
 💼 Intern at Ubisoft as an Assisant Audio Programmer on Anvil Pipeline
 
-🛠 Working on Nmap
-
 
 ## Languages
 | Language      | Proficiency     |
