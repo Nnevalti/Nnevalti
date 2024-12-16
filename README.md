@@ -13,7 +13,7 @@
 
 📚 Studying at 42 - Paris
 
-💼 Intern at Ubisoft as an Assisant Audio Programmer on Anvil Pipeline
+💼 Intern at Ubisoft as an Assistant Audio Programmer on Anvil Pipeline
 
 
 ## Languages
