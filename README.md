@@ -15,7 +15,7 @@
 
 💼 Audio Programmer at Ubisoft on Anvil Pipeline
 
-🐋 ![MobyGames Profile](https://www.mobygames.com/person/1815597/valentin-deschamps/)
+🐋 [MobyGames Profile](https://www.mobygames.com/person/1815597/valentin-deschamps/)
 
 ## Languages
 | Language      | Proficiency     |
