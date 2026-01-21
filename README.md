@@ -11,9 +11,9 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24wglrd004009jyf2b0p1uk/stats?cursusId=21&coalitionId=48" alt="vdescham's 42 stats" /></a>
 -->
 
-📚 Studying at 42 - Paris
+📚 42 - Paris Alumni & Graduated
 
-💼 Intern at Ubisoft as an Assistant Audio Programmer on Anvil Pipeline
+💼 Audio Programmer at Ubisoft on Anvil Pipeline
 
 
 ## Languages
@@ -33,17 +33,17 @@
 #include <iostream>
 #include <string>
 
-using namespace std; // I never use this usually but this is for aesthetic
+using namespace std;
 
 int main()
 {
   string name = "Valentin Deschamps";
-  string title = "Software Developer";
+  string title = "Audio Programmer";
 
   cout << name << "\n";
   cout << title << "\n\n";
 
-  cout << "Experienced software developer with a passion for creating elegant and
+  cout << "Experienced software engineer with a passion for creating elegant and
    efficient solutions to complex problems. Skilled in C++ and Python, with a strong
    background in data structures and algorithms.\n";
 
@@ -52,7 +52,7 @@ int main()
    of my program and identify any issues.\n";
 
   cout << "A little known fact about me is that I love working with legacy code.
-   There's just something about wading through thousands of lines of poorly documented,
+   There's just something about navigating through thousands of lines of poorly documented,
    spaghetti code that really gets me going.\n";
  
   return 0;
